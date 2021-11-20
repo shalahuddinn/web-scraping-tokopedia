@@ -9,3 +9,7 @@
    ```
    python web_scraping_tokopedia.py
    ```
+Note: You can adjust the waiting time on this line if you think 5 seconds is not suitable for waiting the product page to be loaded completely.
+```
+time.sleep(5)
+```
